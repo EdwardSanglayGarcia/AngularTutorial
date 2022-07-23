@@ -1,5 +1,7 @@
 # MyFirstApp
 
+https://www.youtube.com/watch?v=Oo0-r_YhoJs&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=10&ab_channel=Codevolution
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
