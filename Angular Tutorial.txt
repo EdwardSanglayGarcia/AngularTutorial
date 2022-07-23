@@ -1,0 +1,16 @@
+Intall Angular Globally
+ng new [name of app] <[--no-strict]>
+cd [name of app]
+ng serve
+
+
+ng-serve -> main.ts -> appmobule -> app.component -> gets rendered in the html
+
+
+Component has 3 parts:
+1. Template - represents the view (HTML)
+2. Class - supports the view (Typescript) - contains data and methods
+3. Metadata - Information that angular needs to decide.
+
+Create a component - ng g c [name of component]
+
